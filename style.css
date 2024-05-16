@@ -67,6 +67,16 @@ main {
 .downloads a:hover {
     background: #0056b3;
 }
+.instructions {
+    margin-top: 20px;
+    padding: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    background-color: #f8f9fa;
+    border: 1px solid #e9ecef;
+    border-radius: 5px;
+}
+
 
 /* Footer styling */
 footer {
