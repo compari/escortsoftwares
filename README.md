@@ -1,1 +1,1 @@
-git add README.mdPlease download ESCORT Setup Files from this Site.
+Please download ESCORT Setup Files from this Site.
