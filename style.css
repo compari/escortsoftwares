@@ -32,7 +32,7 @@ main {
 
 /* Downloads section styling */
 .downloads {
-    max-width: 600px;
+    max-width: 500px;
     margin: 0 auto;
     background: #fff;
     padding: 2rem;
@@ -65,8 +65,8 @@ main {
 }
 
 .downloads a:hover {
-    background: #0056b3;
-}
+    background: red;
+    }
 .instructions {
     margin-top: 20px;
     padding: 15px;
